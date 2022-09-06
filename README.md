@@ -1,4 +1,4 @@
-# hou_packager-master update for Aeoll.  Thank you for writing 99.9% of this code.
+# hou_packager-master update for Aeoll to make it easier on M1 Mac users.  Thank you Aeoll for writing 99.9% of this code.
 
 # hou_packager
  A simple SideFX Houdini package manager. 
