@@ -1,12 +1,12 @@
 # hou_packager
- A simple SideFX Houdini package manager. 
+ A simple SideFX Houdini package manager from Aeoll I have updated it to make it easier to work with Python.10 and newer Mac computers.
  It lets the user to easily "install", disable or delete any (ready) Houdini HDA libraries.  
 
 ## Instlallation
 In order to execute the script you would need to have Python3 installed on a system, as well as this packages: pathlib-mate, PySide2.
 It can be easily done entering this into your terminal (via pip):
 * `pip install pathlib-mate`
-* `pip install PySide2`
+* `pip install PySide6`
  
 After this sorted out you should feed the path to .py script to pythinw.exe.
 
